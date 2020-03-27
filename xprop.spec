@@ -6,7 +6,7 @@
 #
 Name     : xprop
 Version  : 1.2.4
-Release  : 3
+Release  : 4
 URL      : https://www.x.org/releases/individual/app/xprop-1.2.4.tar.bz2
 Source0  : https://www.x.org/releases/individual/app/xprop-1.2.4.tar.bz2
 Source99 : https://www.x.org/releases/individual/app/xprop-1.2.4.tar.bz2.sig
